@@ -1,4 +1,4 @@
-![parts](https://raw.githubusercontent.com/UkuleleDesign/LightningUke/master/images/parts.jpg)
+![parts](https://raw.githubusercontent.com/UkuleleDesign/LightningUke/master/instructions/IMG_3865.jpg)
 
 ## Circuit Board Parts
 
