@@ -1,6 +1,6 @@
 ![parts](https://raw.githubusercontent.com/UkuleleDesign/LightningUke/master/instructions/IMG_3865.jpg)
 
-## Circuit Board Parts
+## Electronic Parts
 
 - pegboard x 1
 - LM386 x 1
