@@ -15,7 +15,7 @@
 
 ![](slic3r.png)
 
-以 Replicator 2 列印約 15.5 個小時（琴身 9 小時、琴頸 4 小時、把手 2.5 小時）。你也可以至電烏克製作所的網站[購買](http://ukulele.design/tw/#purchase)列印完成的套件包
+以 Replicator 2 列印約 15.5 個小時（琴身 9 小時、琴頸 4 小時、握把 2.5 小時）。你也可以至電烏克製作所的網站購買列印完成的[套件包](http://ukulele.design/tw/#purchase)
 	
 ## 2. 組合琴身 
 

@@ -15,7 +15,7 @@ Depends on the printer size, you might need to rotate the model in 45 degrees
 
 ![](instructions/slic3r.png)
 
-The whole prints takes around 15.5 hours (body: 9 hours, neck: 4 hours, handle: 2.5 hours) on a Replicator 2. You can also [purchase](http://ukulele.design/#purchase) a DIY kit from the project website
+The whole prints takes around 15.5 hours (body: 9 hours, neck: 4 hours, handle: 2.5 hours) on a Replicator 2. You can also purchase a [DIY kit](http://ukulele.design/#purchase) from the project website
 	
 ## 2. Assemble the Body
 
