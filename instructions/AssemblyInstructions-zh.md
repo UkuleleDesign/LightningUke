@@ -2,13 +2,20 @@
 
 ## 1. 準備零件 
 
-下載 [STL 檔案](https://github.com/UkuleleDesign/LightningUke/tree/master/stl)，並準備 3D 列印。視熱床尺寸，可能需要將模型旋轉 45° 擺放
+![](IMG_3761.jpg)
+
+下載 [STL 檔案](https://github.com/UkuleleDesign/LightningUke/tree/master/stl)並準備 3D 列印，建議的設定如下：
+
+* Infill: 20%
+* Layer height: 0.20 mm
+* Shells: 2 
+* Support material and raft: No
+
+視熱床尺寸，可能需要將模型旋轉 45° 擺放
 
 ![](slic3r.png)
 
-以 20% 填充率列印全部的零件
-
-![](IMG_3761.jpg)
+以 Replicator 2 列印約 15.5 個小時（琴身 9 小時、琴頸 4 小時、把手 2.5 小時）。你也可以至電烏克製作所的網站[購買](http://ukulele.design/tw/#purchase)列印完成的套件包
 	
 ## 2. 組合琴身 
 
@@ -63,7 +70,10 @@
 ![](IMG_3844.jpg)
 
 修剪多餘的長度，並確定琴弦都卡進正確的溝槽中
+
 ![](IMG_3858.jpg)
+
+現在你有一把不插電的烏克麗麗了！
 
 ## 5. 焊接電路
 
@@ -72,6 +82,7 @@
 ![](IMG_3865.jpg) 
 
 依照電路圖完成擴大器電路
+
 ![](lm386-circuit.jpg)
 ![](IMG_3868.jpg)
 
@@ -81,11 +92,11 @@
 
 ## 6. 連接電子元件 
 
-首先將喇叭從弦底下穿過，以快乾膠固定
+首先將喇叭從弦底下穿過，以快乾膠固定在凹槽處
 
 ![](IMG_3875.jpg)
 
-拾音器從琴底拉線，也用快乾固定
+拾音器從琴底拉線，也用快乾固定在底部
 
 ![](IMG_3880.jpg)
 
@@ -93,7 +104,7 @@
 
 ![](IMG_3890.jpg)
 
-扣上電池、闔上蓋子後完成
+扣上電池、闔上蓋子後，閃電麗麗就完成啦！
 
 ![](IMG_3922.jpg)
 ![](IMG_3900.jpg)
